@@ -18,7 +18,7 @@ The main goal of Azalea is to centralize commercial processes into a single work
 - Git & GitHub
 
 ## 📌 Project Status
-🚧 Azalea is currently under active development.
+🚧 Azalea is currently under development.
 
 This project is also part of my backend engineering learning journey, where I apply concepts related to API development, software architecture, database modeling, and scalable backend design in a real-world inspired scenario.
 
