@@ -1,6 +1,6 @@
-# Azalea (Merchant Automation Center)
+# Archimedes (Merchant Automation Center)
 
-Azalea is a backend platform focused on automating and centralizing commercial operations for small businesses.
+Archimedes is a backend platform focused on automating and centralizing commercial operations for small businesses.
 The project was inspired by real operational challenges, replacing informal workflows such as spreadsheets, messaging apps, and manual order tracking with a scalable and structured system capable of supporting business growth.
 The main goal of Azalea is to centralize commercial processes into a single workflow, making order management, customer organization, and operational control more efficient and reliable.
 
